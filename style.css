@@ -99,3 +99,27 @@
 .mainPic{
     width: 100%;
 }
+.firstCategory{
+    /* border: solid red; */
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+.sensitiveSkin{
+background-color: transparent;
+margin-top: 10px;
+border: transparent;
+font-weight: 650;
+font-size:175%;
+font-family: Arial, Helvetica, sans-serif;
+}
+.shopAll{
+    border-top-style: ridge;
+    background-color: transparent;
+    margin-left: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 100%;
+}
