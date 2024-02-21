@@ -35,6 +35,67 @@
 .mainLogo{
     height: 25px;
 }
+.nav2{
+    border: solid lightgray;
+    padding:10px;
+    display:flex;
+    justify-content: space-around;
+}
+.subscription{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.babyDiapers{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.wipes{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.bathBody{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.skincare{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.makeup{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.babyClothing{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.cleaning{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+.giftsKits{
+    background-color: transparent;
+    border: transparent;
+    font-weight: 650;
+    font-size:100%;
+}
+
 .mainPic{
     width: 100%;
 }
