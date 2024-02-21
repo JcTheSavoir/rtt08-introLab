@@ -3,8 +3,8 @@
 .adContainer{
     border:solid #B9D0BA;
     background-color: #B9D0BA;
+    height: 20px;
     display: flex;
-    padding:15px;
     justify-content: space-evenly;
 }
 
@@ -15,11 +15,11 @@
 }
 .adTxt{
     /* border:solid blue; */
-    height: 30px;
+    height: 20px;
 }
 .adLink{
     /* border:solid green; */
-    height: 30px;
+    height: 20px;
 }
 .rightArrow{
     /* border:solid red; */
@@ -28,9 +28,12 @@
 
 .navBar{
     /* border: solid blue; */
-    padding: 10px;
+    padding: 20px;
     display:flex;
     justify-content: space-between;
+}
+.mainLogo{
+    height: 25px;
 }
 .mainPic{
     width: 100%;
